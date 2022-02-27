@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Modified header selectors to target the <header> element instead of .header following the HTML change.  */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,6 +71,8 @@ p {
     margin-left: 25px;
 }
 
+/* Created new class selectors to target new classes and their respective child elements added to the HTML. Reorganized rules for easier readability and deleted duplicate code for efficiency. */
+
 .services {
     width: 75%;
     display: inline-block;
@@ -119,6 +123,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Modified footer selectors to target the <footer> element instead of .footer following the HTML change.  */
 
 footer {
     padding: 30px;
