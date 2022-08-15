@@ -4,7 +4,7 @@
   
 ## Description
 
-A landing page for SEO company Horiseon, refactored to be more accessible. The HTML has been semantically corrected for better screen-reader accessiblity.
+A landing page for SEO company Horiseon, refactored to be more accessible. The HTML has been semantically corrected for better screen-reader accessibility.
 
 ![refactored webpage screenshot](./assets/refactored-code-ss.png)
 
@@ -20,7 +20,7 @@ A landing page for SEO company Horiseon, refactored to be more accessible. The H
 
 ## Installation
 
-No installation required! Simply navigate to the deployment via link provided above. To run locally, clone the repository to your local machine, install dependencies , then run the app to see it in localhost.
+No installation required! Simply navigate to the deployment via link provided above. To run locally, clone the repository to your local machine, and open in your preferred browser.
 
 ## License
     
